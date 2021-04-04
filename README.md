@@ -1,5 +1,5 @@
 ### Recursive-challenge
-Um simple desafio para organizar uma arvore de categorias usando recursividade
+Um simples desafio para organizar uma árvore de categorias usando recursividade
 
 ### Desafio
 Dado uma lista de categorias, organize-as em uma árvore. Exemplo:
